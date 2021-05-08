@@ -1,0 +1,16 @@
+D:\LesJacksonApi\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.deps.json
+D:\LesJacksonApi\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.json
+D:\LesJacksonApi\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.dev.json
+D:\LesJacksonApi\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.dll
+D:\LesJacksonApi\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.pdb
+D:\LesJacksonApi\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csprojAssemblyReference.cache
+D:\LesJacksonApi\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cache
+D:\LesJacksonApi\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cs
+D:\LesJacksonApi\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfoInputs.cache
+D:\LesJacksonApi\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfo.cs
+D:\LesJacksonApi\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorTargetAssemblyInfo.cache
+D:\LesJacksonApi\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.dll
+D:\LesJacksonApi\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.pdb
+D:\LesJacksonApi\CmdApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\LesJacksonApi\CmdApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\LesJacksonApi\CmdApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
