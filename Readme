@@ -1,0 +1,14 @@
+////////////////////////////////////
+/     Steps to constroy the api    /
+////////////////////////////////////
+
+1) Command dotnet new webapi -n <name>
+2)Create the CommandsController.cs 
+3)Create the Models folder and the Command.cs
+4)Install dotnet ef
+5) Create de Dbcontext class CommandContext.cs 
+6)Create the connection String on appsetting.json
+7)Configure the context on Startup.cs, with dependence injection of IConfiguration interface
+8)Add migration with command dotnet ef migrations add <name>
+9)Update database with command dotnet ef database update 
+10)start creating the end points on the controller
